@@ -1,5 +1,5 @@
 # rocket
-A fast and simple browser for the modern web
+A out of the box, fast and simple browser for the modern web
 
 #### How to:
 1. Clone
