@@ -1,3 +1,4 @@
+![Rocket Logo](https://koutsie.eu/files/rocket.png)
 # rocket
 A fast and simple browser for the modern web
 
